@@ -58,6 +58,7 @@ header ul li{
 h1{
 	font-size: 50px;
 	margin-bottom: 40px;
+	line-height: 1.2;
 }
 
 button, .button{
